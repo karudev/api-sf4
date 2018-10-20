@@ -1,2 +1,7 @@
-db/*
-src/*
+mysql/db/
+php-apache/logs
+
+api/.env
+api/public/bundles/
+api/var/
+api/vendor/

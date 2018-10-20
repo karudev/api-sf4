@@ -1,5 +1,5 @@
-FROM php:7.0.12-apache
-MAINTAINER Dolyveen Renault <renault@karudev.fr>
+FROM php:7.2-apache
+MAINTAINER Dolyveen Renault <d.renault@karudev-informatique.fr>
 
 COPY etc/php/php.ini /usr/local/etc/php
 RUN a2enmod rewrite
