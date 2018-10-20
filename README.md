@@ -21,4 +21,4 @@ composer req api
 
 Build by Dolyveen Renault, Karudev Informatique
 
-![Karudev Logo](http://karudev-informatique.fr/wp-content/uploads/2018/03/LOGO_Karudev_RVB-Fond-Couleur-small.png)
+![Karudev Logo](http://karudev-informatique.fr/wp-content/uploads/2018/03/LOGO_Karudev_RVB-Couleurs-150x150.png)
